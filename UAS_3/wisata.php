@@ -116,4 +116,23 @@ class ResultRenderer {
     }
 }
 
+class detail
+{
+    private $nama;
+    public $lokasi;
+    private $luas;
+    public function berlokasi($lokasi)
+    {
+        return "Tempat ini berlokasi :";
+
+    }
+}
+
+class gunung extends detail {
+    public function berlokasi($lokasi) {
+        return parent:: berlokasi() . " Magelang :";
+
+    }
+}
+
 ?>
