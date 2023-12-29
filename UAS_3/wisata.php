@@ -131,7 +131,7 @@ class detail
 class gunung extends detail {
     public function berlokasi($lokasi) {
         return parent:: berlokasi() . " Magelang :";
-
+#classp
     }
 }
 
