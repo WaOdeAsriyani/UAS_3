@@ -101,7 +101,7 @@ https://templatemo.com/tm-564-plot-listing
                 <div class="col-lg-12">
                     <div class="top-text header-text">
                         <h2>selamat ujian</h2>
-                        <h2>Cari Tempat Wisata Yang Anda Mau</h2>
+                        <h2>Cari Tempat Wisata Mana Yang Anda Mau</h2>
                                                 <h6>Tempat Wisata Pilihan</h6>
                     </div>
                 </div>
